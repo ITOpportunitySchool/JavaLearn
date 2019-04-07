@@ -34,4 +34,12 @@
 1. [Java Persistence With Hibernate](http://www.amazon.com/Java-Persistence-Hibernate-Christian-Bauer/dp/1932394885?tag=javamysqlanta-20)
 2. [Hibernate Tips: More Than 70 Solutions to Common Hibernate Problems](https://www.amazon.co.uk/dp/1544869177?linkCode=gs2&tag=javarevisit01-21)
 3. [Оффициальная документация](http://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
-4. 
+
+## JavaScript
+
+1. [Качественный сайт по JS](https://learn.javascript.ru/)
+2. [Оффициальная документация](https://learn.javascript.ru/)
+3. [JavaScript. Сильные стороны](https://www.ozon.ru/context/detail/id/20217226/)
+4. [https://www.ozon.ru/context/detail/id/19677670/](https://www.ozon.ru/context/detail/id/19677670/)
+
+## 
