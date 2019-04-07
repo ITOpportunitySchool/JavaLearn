@@ -11,7 +11,7 @@
 ## Databases and SQL
 
 1. [Learning SQL](https://www.amazon.com/Learning-SQL-Master-Fundamentals/dp/0596520832)
-2. http://www.sql-ex.ru/?Lang=0 Ресурс для практики написания sql запросов
+2. [Ресурс для практики написания sql запросов](http://www.sql-ex.ru/?Lang=0)
 3. [Database System Concepts](https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz/dp/0073523321/)
 4. [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0136086209)
 
@@ -40,6 +40,6 @@
 1. [Качественный сайт по JS](https://learn.javascript.ru/)
 2. [Оффициальная документация](https://learn.javascript.ru/)
 3. [JavaScript. Сильные стороны](https://www.ozon.ru/context/detail/id/20217226/)
-4. [https://www.ozon.ru/context/detail/id/19677670/](https://www.ozon.ru/context/detail/id/19677670/)
+4. [JavaScript. Подробное руководство](https://www.ozon.ru/context/detail/id/19677670/)
 
 ## 
