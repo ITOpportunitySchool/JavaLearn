@@ -42,8 +42,15 @@
 3. [JavaScript. Сильные стороны](https://www.ozon.ru/context/detail/id/20217226/)
 4. [JavaScript. Подробное руководство](https://www.ozon.ru/context/detail/id/19677670/)
 
-## Servlets
+## Servlets and JSP
 
 1. [Murach JAVA SERVLETS and JSP](https://www.amazon.co.uk/dp/1890774782?linkCode=gs2&tag=javarevisit01-21)
 2. [Создание WEB-приложений на языке Java с помощью сервлетов, JSP и EJB](https://www.books.ru/books/sozdanie-web-prilozhenii-na-yazyke-java-s-pomoshchyu-servletov-jsp-i-ejb-4959586/)
 3. [Head First Servlets and JSP](https://www.amazon.com/Head-First-Servlets-JSP-Certified/dp/0596516681)
+
+## Spring
+
+1. [Оффициальная документация](https://spring.io/projects/spring-framework#learn)
+2. [Spring 4 для профессионалов](https://www.ozon.ru/context/detail/id/33056979/) (Уже должна быть доступна для 5 версии)
+3. [Spring в действии](https://www.ozon.ru/context/detail/id/31239365/) (По английски книга называется Spring in action и есть в 4 и 5 изданиях)
+4. [Spring 5 Recipes](https://www.amazon.com/Spring-5-Recipes-Problem-Solution-Approach/dp/1484227891)
