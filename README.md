@@ -42,4 +42,8 @@
 3. [JavaScript. Сильные стороны](https://www.ozon.ru/context/detail/id/20217226/)
 4. [JavaScript. Подробное руководство](https://www.ozon.ru/context/detail/id/19677670/)
 
-## 
+## Servlets
+
+1. [Murach JAVA SERVLETS and JSP](https://www.amazon.co.uk/dp/1890774782?linkCode=gs2&tag=javarevisit01-21)
+2. [Создание WEB-приложений на языке Java с помощью сервлетов, JSP и EJB](https://www.books.ru/books/sozdanie-web-prilozhenii-na-yazyke-java-s-pomoshchyu-servletov-jsp-i-ejb-4959586/)
+3. [Head First Servlets and JSP](https://www.amazon.com/Head-First-Servlets-JSP-Certified/dp/0596516681)
